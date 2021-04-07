@@ -36,6 +36,8 @@
     "typescript": "^4.2.3"
   },
   "scripts": {
+    "publish": "npm publish --registry=https://npm.pkg.github.com",
+    "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Antonius Ostermann <ostermann.antonius@gmail.com> (https://www.antonius-ostermann.de)",
