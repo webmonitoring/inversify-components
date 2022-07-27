@@ -1,6 +1,6 @@
 {
-  "name": "@xavierraffin/inversify-components",
-  "version": "1.7.0",
+  "name": "@webmonitoring/inversify-components",
+  "version": "1.7.1",
   "description": "Plugin based mini core framework. Combines InversifyJS with Extension Point Pattern / Service Provider Interfaces. Enables building components with inversify using binding descriptors.",
   "keywords": [
     "InversifyJS",
@@ -12,10 +12,10 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "typings": "./dts/inversify-components.d.ts",
-  "bugs": "https://github.com/xavierraffin/inversify-components/issues",
+  "bugs": "https://github.com/webmonitoring/inversify-components/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xavierraffin/inversify-components"
+    "url": "https://github.com/webmonitoring/inversify-components"
   },
   "peerDependencies": {
     "inversify": "^6.0.1",
